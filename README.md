@@ -1,10 +1,10 @@
 # Halo! 👋 Saya Tedi Hanafiah
 
 Hi guys, my name is Tedi Hanafiah, you can call me Tedi or Hanafi. I'm a fullstack web developer. Here are my current details:
-📕 Currently, I am studying at Universitas Tangerang Raya <br>
-👯 I'm a FullStack Web Developer   <br>
+👨‍🎓 Currently, I am studying at Universitas Tangerang Raya <br>
+💻 I'm a FullStack Web Developer   <br>
 🤝 I’m looking for collaboration in Development and Design   <br>
-💬 Ask me about Web Development and Graphic Design   <br>
+🎨 Ask me about Web Development and Graphic Design   <br>
 
 ## Sosial Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tedihanafiah)
@@ -40,4 +40,4 @@ Atau kirim email ke [tedihanafi12@gmail.com](mailto:tedihanafi12@gmail.com).
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-Terima kasih telah mengunjungi profil saya! 🚀
+Terima kasih, Mari bekerja sama dengan saya ! 🚀
