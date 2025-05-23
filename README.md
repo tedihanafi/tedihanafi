@@ -11,7 +11,8 @@ Hi guys, my name is Tedi Hanafiah, you can call me Tedi or Hanafi. I'm a fullsta
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tedihanafiah)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tuyulsecond_s.kom)
 
-Atau kirim email ke [tedihanafi12@gmail.com](mailto:tedihanafi12@gmail.com).
+Atau kirim email ke [tedihanafi12@gmail.com](mailto:tedihanafi12@gmail.com) atau hubungi lewat [WhatsApp di 0895-3953-16970](https://wa.me/62895395316970).
+
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
